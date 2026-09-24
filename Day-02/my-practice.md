@@ -30,3 +30,13 @@
 
 
 <img width="1901" height="347" alt="image" src="https://github.com/user-attachments/assets/f58a44f7-2d27-420b-b24a-43b87fc17adf" />
+
+- It will ask for google authentication and get connected
+
+<img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/4311fe67-1ab3-4fd8-9e70-2442c9af3753" />
+
+- Install Antigravity CLI
+
+<img width="1240" height="412" alt="image" src="https://github.com/user-attachments/assets/a54040ff-54e1-4291-8e94-ef1c78224498" />
+
+<img width="1681" height="403" alt="image" src="https://github.com/user-attachments/assets/7c97f408-e120-4061-bd22-6e20e06bea93" />
