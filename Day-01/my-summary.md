@@ -1,5 +1,12 @@
 ## Day 1 – AI Agent: Zero to Hero — Summary
 
+You will learn about the 4 important phases of an Enterprise AI Agent 
+1. Build
+2. Deploy and Scale
+3. Govern
+4. Observe
+and how different features of Gemini Enterprise Agent Platform helps in each phase.
+
 The video introduces a **10-part, project-driven series** focused on building an **enterprise AI agent** rather than just a basic prototype. The project is a **Kubernetes investigation/troubleshooting agent** using **Gemini Enterprise Agent Platform and Google Cloud**. 
 
 ### 1. Prototype vs Enterprise AI Agent
