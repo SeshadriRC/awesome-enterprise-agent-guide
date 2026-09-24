@@ -40,3 +40,7 @@
 <img width="1240" height="412" alt="image" src="https://github.com/user-attachments/assets/a54040ff-54e1-4291-8e94-ef1c78224498" />
 
 <img width="1681" height="403" alt="image" src="https://github.com/user-attachments/assets/7c97f408-e120-4061-bd22-6e20e06bea93" />
+
+- After typing `agy` and select `google auth` as a authentication method
+
+<img width="1672" height="405" alt="image" src="https://github.com/user-attachments/assets/675d25ac-9696-4268-ae92-b4196effd0ad" />
