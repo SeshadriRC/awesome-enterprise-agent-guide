@@ -1,3 +1,21 @@
+```bash
+
+> Build a simple Kubernetes investigation agent in python that takes logs as input to perform investigation. Post investigation it should provide a detailed analysis with supportling evidence.
+
+Gemini 3.8 Flash · high
+
+- Create a project
+- Enable API
+- Overview 
+   - models, evaluation, model registry
+- Generate API key --> Application default credentials --> run in terminal
+- Run the api key command again in new terminal and Install uvx (uvx google-agents-cli setup)
+- Run agy and check the skills  ( it should show 7 skills )
+
+agy --dangerously-skip-permissions
+
+```
+
 - We are using ADK framework to build an agent. Agent cli will interact with ADK and create an Agent for us
 
 <img width="1855" height="782" alt="image" src="https://github.com/user-attachments/assets/f46ba31e-fd2c-48ed-b6a1-7ee2672aa8b0" />
